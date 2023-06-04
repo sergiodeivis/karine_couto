@@ -56385,7 +56385,7 @@ $S:0}
 A.rc.prototype={
 an(){return new A.GU(B.m)}}
 A.GU.prototype={
-V(a){var s,r,q=this,p=null,o=t.U,n=A.br(p,A.ti(A.a([new A.qq(A.akC(p,p,new A.p9("1.jpg",p,p)),440,p)],o),B.bt,B.b5),B.i,p,p,p,p),m=q.d,l=m?B.o:B.F,k=A.eT(B.o,3)
+V(a){var s,r,q=this,p=null,o=t.U,n=A.br(p,A.ti(A.a([new A.qq(A.akC(p,p,new A.p9("assets/images/1.jpg",p,p)),440,p)],o),B.bt,B.b5),B.i,p,p,p,p),m=q.d,l=m?B.o:B.F,k=A.eT(B.o,3)
 l=A.dq(!1,!0,A.br(p,A.ti(A.a([A.fn("Tabata",A.dk(p,p,m?B.j:B.o,p,p,p,p,p,p,p,p,50,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p)],o),B.bt,B.b5),p,new A.cw(l,p,k,B.ag,p,p,B.S),B.G,B.G,p),p,!0,p,p,p,p,p,p,p,p,p,p,new A.a31(q),new A.a32(q),new A.a33(q),p)
 m=q.e
 k=m?B.o:B.F
@@ -60537,7 +60537,7 @@ B.Ho=new A.p(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.Iy=new A.da(B.H8,B.Ih,B.I0,B.FS,B.HT,B.H0,B.Il,B.Gi,B.GK,B.HO,B.FN,B.I2,B.HR,B.HL,B.Ho)
 B.Iz=new A.ub(1,"longestLine")
 B.H6=new A.p(!0,B.o,null,null,null,null,9,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.IA=new A.u1("v0.0.1",null,B.H6,null,null,null)
+B.IA=new A.u1("0.0.1",null,B.H6,null,null,null)
 B.L4=new A.DW(0,"system")
 B.IB=new A.uc(null)
 B.dQ=new A.ue(0,"clamp")
